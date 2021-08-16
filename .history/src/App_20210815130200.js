@@ -1,10 +1,9 @@
 import './App.css';
-import CarouselPage from './components/CarouselPage';
 
 function App() {
   return (
     <div className="App">
-      <CarouselPage />
+      <div>Hello World</div>
     </div>
   );
 }
